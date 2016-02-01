@@ -1,6 +1,6 @@
 $( document ).ready( function () {
 
-  var myKey = 'fc4p6ewqjr6w9j8en4hwrjyh';
+  var myKey = '';
 
   var searchButton = $( '<div>' );
     searchButton
